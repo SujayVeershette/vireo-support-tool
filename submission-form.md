@@ -122,14 +122,6 @@ Agreement with bot category: ~75–80% (run the eval script for exact figures on
 - A sentiment scoring pipeline (faster to analyse but less actionable than repeat-contact rate).
 - A lot-code defect clustering module — ran out of time, documented above.
 
-**Screen recording link:** [TO BE ADDED — record a 3-minute walkthrough showing: (1) `streamlit run app.py`, (2) weekly digest generation for 2026-W25, (3) leaderboard view with team filter, (4) eval script run]
-
----
-
-## Your Public Google Drive Link
-
-[TO BE ADDED]
-
 ---
 
 ## Someone picks this up on Monday and you are unreachable. The three things they need to know.
@@ -144,10 +136,7 @@ Agreement with bot category: ~75–80% (run the eval script for exact figures on
 
 ## Honest hours spent.
 
-**5 hours.**
+**2 hours.**
 
 ---
 
-## GitHub Repo Link
-
-[TO BE ADDED — push to a public GitHub repo before submission]
