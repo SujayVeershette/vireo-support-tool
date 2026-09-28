@@ -224,7 +224,7 @@ TICKET SAMPLE (up to 40 tickets, priority-weighted):
         return {
             "error": (
                 f"Model output was truncated (finish_reason='length'). "
-                f"The response hit the {2000}-token limit before completing the JSON. "
+                f"The response hit the {2500}-token limit before completing the JSON. "
                 "Try reducing max_tickets or simplifying the prompt."
             )
         }, {}

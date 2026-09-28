@@ -278,7 +278,7 @@ if "Digest" in view:
                 if signals:
                     st.markdown("### 📦 Product Signals")
                     for sig in signals:
-                        st.markdown(f"- **{sig.get('sku','')}**: {sig.get('signal','')}")
+                        st.markdown(f"- **{sig.get('sku','')}**: {sig.get('top_issue','')}")
 
                 # Recommended action
                 rec = digest.get('recommended_action', '')
